@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shop1155/static/css/main.7bbf5504.css",
+    "main.js": "/Shop1155/static/js/main.ef2a3975.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Shop1155/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/4 - thors hammer.jpg": "/Shop1155/static/media/4 - thors hammer.9d71cecc404635155b17.jpg",
+    "static/media/3 - shield.jpg": "/Shop1155/static/media/3 - shield.3bb2c504c6e799989826.jpg",
+    "static/media/2 - sword.jpg": "/Shop1155/static/media/2 - sword.5455a5d51a8adf2f1511.jpg",
+    "static/media/1 - gold.jpg": "/Shop1155/static/media/1 - gold.32a819b6555fd3703e9a.jpg",
+    "static/media/0 - silver.jpg": "/Shop1155/static/media/0 - silver.7dce6f8104e8d9e02f1a.jpg",
+    "index.html": "/Shop1155/index.html",
+    "main.7bbf5504.css.map": "/Shop1155/static/css/main.7bbf5504.css.map",
+    "main.ef2a3975.js.map": "/Shop1155/static/js/main.ef2a3975.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Shop1155/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bbf5504.css",
+    "static/js/main.ef2a3975.js"
+  ]
+}
